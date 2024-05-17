@@ -1,1 +1,1 @@
-# Climb-Ninja-Climb-
+# Climb-Ninja-Climb
