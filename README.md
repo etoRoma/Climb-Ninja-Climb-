@@ -1,7 +1,7 @@
 # Дизайн документ
 ### Название
 
-Climb Ninja! Climb!
+Climb, Ninja! Climb!
 
 ### Платформа:
 
